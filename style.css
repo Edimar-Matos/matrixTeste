@@ -128,18 +128,60 @@ ul{
   }
 
   .vid{
-   width: max(80px,5vw);
-  
+   width: max(80px,5vw);  
    margin-top:  1rem;
    margin-bottom:  1rem;
    font-size: 3rem;
    color: black;
-   border:3px solid rgb(7, 155, 20);
+   border:3px solid rgb(162, 163, 162);
    background-color: white;
    background-image: url(./img/vid1.PNG);
    background-size: cover;
-
   }
+  .vid2{
+    width: max(80px,5vw);  
+    margin-top:  1rem;
+    margin-bottom:  1rem;
+    font-size: 3rem;
+    color: black;
+    border:3px solid rgb(162, 163, 162);
+    background-color: white;
+    background-image: url(./img/vid2.PNG);
+    background-size: cover;
+   }
+   .vid3{
+    width: max(80px,5vw);  
+    margin-top:  1rem;
+    margin-bottom:  1rem;
+    font-size: 3rem;
+    color: black;
+    border:3px solid rgb(162, 163, 162);
+    background-color: white;
+    background-image: url(./img/vid3.PNG);
+    background-size: cover;
+   }
+   .vid4{
+    width: max(80px,5vw);  
+    margin-top:  1rem;
+    margin-bottom:  1rem;
+    font-size: 3rem;
+    color: black;
+    border:3px solid rgb(162, 163, 162);
+    background-color: white;
+    background-image: url(./img/vid4.PNG);
+    background-size: cover;
+   }
+   .vid5{
+    width: max(80px,5vw);  
+    margin-top:  1rem;
+    margin-bottom:  1rem;
+    font-size: 3rem;
+    color: black;
+    border:3px solid rgb(162, 163, 162);
+    background-color: white;
+    background-image: url(./img/vid5.PNG);
+    background-size: cover;
+   }
 
   /* area de imagem */
   .blok_g{
