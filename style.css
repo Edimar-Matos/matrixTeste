@@ -130,8 +130,7 @@ ul{
   .vid{
    width: max(80px,5vw);  
    margin-top:  1rem;
-   margin-bottom:  1rem;
-   font-size: 3rem;
+   margin-bottom:  1rem;   
    color: black;
    border:3px solid rgb(162, 163, 162);
    background-color: white;
@@ -139,10 +138,11 @@ ul{
    background-size: cover;
   }
   .vid2{
-    width: max(80px,5vw);  
+    width: max(80px,5vw); 
+    height: 110px; 
     margin-top:  1rem;
     margin-bottom:  1rem;
-    font-size: 3rem;
+    
     color: black;
     border:3px solid rgb(162, 163, 162);
     background-color: white;
@@ -153,7 +153,7 @@ ul{
     width: max(80px,5vw);  
     margin-top:  1rem;
     margin-bottom:  1rem;
-    font-size: 3rem;
+    
     color: black;
     border:3px solid rgb(162, 163, 162);
     background-color: white;
@@ -164,7 +164,7 @@ ul{
     width: max(80px,5vw);  
     margin-top:  1rem;
     margin-bottom:  1rem;
-    font-size: 3rem;
+    
     color: black;
     border:3px solid rgb(162, 163, 162);
     background-color: white;
@@ -175,7 +175,7 @@ ul{
     width: max(80px,5vw);  
     margin-top:  1rem;
     margin-bottom:  1rem;
-    font-size: 3rem;
+    
     color: black;
     border:3px solid rgb(162, 163, 162);
     background-color: white;
